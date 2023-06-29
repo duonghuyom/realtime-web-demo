@@ -1,0 +1,8 @@
+{
+  "name": "mqttjs-example",
+  "version": "0.0.1",
+  "description": "my first mqttjs web",
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  }
+}
